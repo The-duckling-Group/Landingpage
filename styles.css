@@ -20,8 +20,8 @@ html, body, #main {
 		margin: 0;
 	}
 		body, input, textarea, select, button { font-size: 12px; font-family: sans-serif; }
-		body { --token-d3d12c44-6ded-4fca-824c-702bde44708d: rgb(11, 12, 16);--token-51f7d523-9bd8-4f9d-8c9a-dab30da72b10: rgb(20, 22, 28);--token-af2a713d-8107-4ac0-91a1-6869e2e819c4: rgb(246, 247, 249);--token-48d44ef3-8698-4cf6-9890-73f0f3809ace: rgb(166, 170, 180);--token-bd12efbc-5b32-46e8-8615-2f49a88c4d34: rgb(255, 210, 74); @supports (color: color(display-p3 1 1 1)) {  } }
-@media (prefers-color-scheme: dark) { body { --token-d3d12c44-6ded-4fca-824c-702bde44708d: rgb(11, 12, 16);--token-51f7d523-9bd8-4f9d-8c9a-dab30da72b10: rgb(20, 22, 28);--token-af2a713d-8107-4ac0-91a1-6869e2e819c4: rgb(246, 247, 249);--token-48d44ef3-8698-4cf6-9890-73f0f3809ace: rgb(166, 170, 180);--token-bd12efbc-5b32-46e8-8615-2f49a88c4d34: rgb(255, 210, 74); @supports (color: color(display-p3 1 1 1)) {  } } }
+		body { --token-d3d12c44-6ded-4fca-824c-702bde44708d: rgb(11, 12, 16);--token-51f7d523-9bd8-4f9d-8c9a-dab30da72b10: rgb(20, 22, 28);--token-af2a713d-8107-4ac0-91a1-6869e2e819c4: rgb(246, 247, 249);--token-48d44ef3-8698-4cf6-9890-73f0f3809ace: rgb(166, 170, 180);--token-bd12efbc-5b32-46e8-8615-2f49a88c4d34: rgb(255, 210, 74); }
+@media (prefers-color-scheme: dark) { body { --token-d3d12c44-6ded-4fca-824c-702bde44708d: rgb(11, 12, 16);--token-51f7d523-9bd8-4f9d-8c9a-dab30da72b10: rgb(20, 22, 28);--token-af2a713d-8107-4ac0-91a1-6869e2e819c4: rgb(246, 247, 249);--token-48d44ef3-8698-4cf6-9890-73f0f3809ace: rgb(166, 170, 180);--token-bd12efbc-5b32-46e8-8615-2f49a88c4d34: rgb(255, 210, 74); } }
 		
 		@supports (z-index: calc(infinity)) {
 			#__framer-badge-container {
